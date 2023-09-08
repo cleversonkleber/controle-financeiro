@@ -1,9 +1,13 @@
 # Controle financeiro pessoal.
 O software tem como objetivo auxiliar no controle e na projeção dos gastos mensais. 
 
+# Protótipo
+
+[Controle Financeiro](https://www.figma.com/proto/EcVItfLLJD2cY8QWrTqPua/ControleFinanceiro?type=design&node-id=13-45&t=QKpkBVUzn8HcD32F-0&scaling=min-zoom&page-id=13%3A28&starting-point-node-id=13%3A45) 
+
 # Checklist
 
-- [ ] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
+- [X] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
 - [ ] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro).
 - [ ] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
 - [ ] Construir páginas web com o conceito de componentes. 
